@@ -3,7 +3,7 @@
 ## Goal of the project
 The primary goal of this project is to develop a reliable machine learning model that can predict film revenues accurately. By analyzing a wide range of film-related features and historical data, we aim to provide valuable insights to filmmakers, studios, and investors. We want to empower decision-makers in the film industry with a tool that helps them make data-driven choices, ultimately enhancing their chances of financial success in the highly competitive world of cinema.
 
-
+<br><img src="displot.png" height="500" align="middle"><br>
 
 ## Datasets Used
 The datasets used include:
